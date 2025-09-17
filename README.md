@@ -38,9 +38,12 @@ The goal was to uncover **business insights** around regional performance, prici
 
 ## 📷 Dashboards & Visuals
 - **Snowsight Visuals** (Regional Growth, Mileage vs Price, EV Adoption)  
-- **Power BI Dashboard** (Revenue, Sales, Market Share, YoY Growth)  
+  
 
-![Dashboard Preview](images/dashboard_preview.png)
+<img width="1797" height="882" alt="Screenshot 2025-09-15 231706" src="https://github.com/user-attachments/assets/41e7aea3-3293-4821-91d8-748cf64e532e" />
+
+- **Power BI Dashboard** (Revenue, Sales, Market Share, YoY Growth)
+<img width="1194" height="735" alt="Screenshot 2025-09-14 172952" src="https://github.com/user-attachments/assets/3f35126b-e80f-4c6b-a8b1-126b26097ea7" />
 
 ---
 
